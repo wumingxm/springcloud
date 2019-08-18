@@ -1,0 +1,41 @@
+.spring.datasource.driver-cl
+spring:
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:dev}
+  application:
+    name: auth-server
+  datasource:
+    url: jdbc:mysql://localhost:3306/student
+    username: root
+    password: wumming
+    driver-class-name: com.mysql.jdbc.Driver
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  redis:
+    host: 192.168.1.140
+
+server:
+  port: 9999
+
+
+eureka:
+  instance:
+    preferIpAddress: true
+  client:
+    serviceUrl:
+      defaultZone: http://${eureka.host:localhost}:${eureka.port:8761}/eureka/
+#config:
+  #oauth2:
+    #privateKey:
+    #publicKey:
+logging.leve.org.springframework: DEBUG
+
+#配置ouaht 资源过滤顺序
+security:
+  oauth2:
+    resource:
+      filter-order: 3
+
+
