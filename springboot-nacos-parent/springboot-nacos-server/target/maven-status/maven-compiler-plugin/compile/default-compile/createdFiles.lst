@@ -1,0 +1,5 @@
+com\alibaba\nacos\SpringBootStaterApplication.class
+com\alibaba\nacos\server\controller\ConfigController.class
+com\alibaba\nacos\server\controller\StudentController.class
+com\alibaba\nacos\server\listener\StudentEventListener.class
+com\alibaba\nacos\server\config\NacosConfiguration.class

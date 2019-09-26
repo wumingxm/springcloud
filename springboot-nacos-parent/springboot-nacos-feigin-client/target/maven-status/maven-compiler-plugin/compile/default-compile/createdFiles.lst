@@ -1,0 +1,6 @@
+com\alibaba\nacos\feign\client\UserServiceFeign.class
+com\alibaba\nacos\feign\client\StudentServiceFeign.class
+com\alibaba\nacos\feign\fallback\StudentFallbackImpl$1.class
+com\alibaba\nacos\feign\fallback\StudentFallbackImpl.class
+com\alibaba\nacos\feign\fallback\UserFallbackImpl.class
+com\alibaba\nacos\feign\fallback\UserFallbackImpl$1.class

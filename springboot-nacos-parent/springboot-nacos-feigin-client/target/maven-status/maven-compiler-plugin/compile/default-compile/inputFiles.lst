@@ -1,0 +1,4 @@
+D:\code\springboot-nacos-parent\springboot-nacos-feigin-client\src\main\java\com\alibaba\nacos\feign\client\UserServiceFeign.java
+D:\code\springboot-nacos-parent\springboot-nacos-feigin-client\src\main\java\com\alibaba\nacos\feign\fallback\UserFallbackImpl.java
+D:\code\springboot-nacos-parent\springboot-nacos-feigin-client\src\main\java\com\alibaba\nacos\feign\client\StudentServiceFeign.java
+D:\code\springboot-nacos-parent\springboot-nacos-feigin-client\src\main\java\com\alibaba\nacos\feign\fallback\StudentFallbackImpl.java
