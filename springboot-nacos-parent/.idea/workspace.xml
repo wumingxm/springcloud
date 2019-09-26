@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="springboot-nacos-discovery" />
+      <module name="springboot-nacos-feigin-client" />
+      <module name="springboot-nacos-api" />
+      <module name="springboot-nacos-config" />
+      <module name="springboot-nacos-provider" />
+      <module name="springboot-nacos-server" />
+      <module name="springboot-nacos-oauth2" />
+      <module name="springboot-nacos-mybatis" />
+      <module name="springboot-nacos-service-one" />
+      <module name="springcloud-nacos-config-client" />
+      <module name="springboot-nacos-register" />
+      <module name="springboot-nacos-user" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8ec67d4-f615-4fe7-abee-1688894ef42e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-discovery/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos.server/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-server/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-config/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-discovery/springboot-nacos-api/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-api/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-feigin-client/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-provider/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-registry/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-registry/springboot-nacos-oauth2/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-oauth2/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-registry2/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-register/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-user/target/" />
+    <ignored path="$PROJECT_DIR$/springnboot-nacos-configserver/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-config/springcloud-nacos-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud-nacos-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-gateway/springboot-nacos-service-one/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-service-one/target/" />
+    <ignored path="$PROJECT_DIR$/springboot-nacos-mybatis/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/springboot_nacos_parent$NacosConfigServer.ic" NAME="NacosConfigServer Coverage Results" MODIFIED="1568554907613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alibaba.nacos.config.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springboot_nacos_parent$Oauth2Server__1_.ic" NAME="Oauth2Server (1) Coverage Results" MODIFIED="1568366659601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alibaba.nacos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springboot_nacos_parent$SpringBootStaterApplication__1_.ic" NAME="SpringBootStaterApplication (1) Coverage Results" MODIFIED="1567727005874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alibaba.nacos.server.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springboot_nacos_parent$SpringBootStaterApplication.ic" NAME="SpringBootStaterApplication Coverage Results" MODIFIED="1569509247547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alibaba.nacos.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/springboot_nacos_parent$SpringBootStaterApplication__2_.ic" NAME="SpringBootStaterApplication (2) Coverage Results" MODIFIED="1567872001556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.alibaba.nacos.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1829865010">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="23" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dockerfile" value="3" />
+          <entry key="cert" value="3" />
+          <entry key="class" value="15" />
+          <entry key="java" value="426" />
+          <entry key="properties" value="53" />
+          <entry key="sh" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="111" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="15" />
+          <entry key="Dockerfile" value="3" />
+          <entry key="JAVA" value="426" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="53" />
+          <entry key="XML" value="111" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Dockerfile" value="31" />
+          <entry key="dummy" value="13" />
+          <entry key="java" value="20514" />
+          <entry key="properties" value="5367" />
+          <entry key="txt" value="98" />
+          <entry key="xml" value="4930" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Dockerfile" value="31" />
+          <entry key="JAVA" value="20509" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="Properties" value="5367" />
+          <entry key="SQL" value="1" />
+          <entry key="Spring Data QL" value="4" />
+          <entry key="XML" value="4930" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springboot-nacos-parent">
+      <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/config" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/config/MybatisConfig.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/config/NacosConfiguration.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/listener" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/listener/StudentEventListener.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/ConfigController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/StudentController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/TeacherController.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/SpringBootStaterApplication.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/resources" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/main/resources/bootstrap.properties" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/com" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/com/alibaba" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/com/alibaba/nacos" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/com/alibaba/nacos/server" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                      <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/com/alibaba/nacos/server/controller" module="springboot-nacos-server" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/com/alibaba/nacos/server/controller/StudentControllerTest.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                      </favorite_root>
+                    </favorite_root>
+                  </favorite_root>
+                </favorite_root>
+              </favorite_root>
+              <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/src/test/java/SpringRestDoc.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/springboot-nacos-server/pom.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="128" column="10" selection-start-line="128" selection-start-column="10" selection-end-line="128" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/SpringBootStaterApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/MybatisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="382">
+              <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/resources/bootstrap.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/OAuth2Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/Oauth2Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-server/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3">
+              <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/TeacherController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/resources/bootstrap.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>toArry</find>
+      <find>toArray</find>
+      <find>STU</find>
+      <find>BaseDao</find>
+      <find>dru</find>
+      <find>BaseDap</find>
+      <find>starter-jp</find>
+      <find>add</find>
+      <find>De</find>
+      <find>isPasswordValid</find>
+      <find>check</find>
+      <find>redisTemplate</find>
+      <find>getKE</find>
+      <find>Validator</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/config/NacosConfiguration.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/Response.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/CustomKeyResolver.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/service/DynamicRouteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/GatewayFilterDefinition.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/GatePredicateDefinition.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/RedisRateLimiter.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/CustomResolverKey.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/controller/RouteController.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/GatewayRouteDefinition.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/Config.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/LimitConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/LimitKey.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/CustomRedisRateLimiter.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/RateLimiterGatewayFilterFactory.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/WrapperResponseFilter.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/NacosGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-service-one/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-service-one/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-nacos-service-one/src/main/java/com/alibaba/nacos/service/NacosOneServiceApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-service-one/src/main/java/com/alibaba/nacos/service/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-service-one/src/main/java/com/alibaba/nacos/service/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/NacosGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-config/src/main/java/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/springboot-nacos-config/src/main/docker/app.sh" />
+        <option value="$PROJECT_DIR$/springboot-nacos-config/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/springboot-nacos-config/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-register/src/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/springboot-nacos-register/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-user/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/Teacher.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/api/TeacherApi.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-provider/src/main/java/com/alibaba/nacos/service/TeacherService.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/dao/TeacherDao.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/TeacherController.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-server/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-oauth2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springboot-nacos-config/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/springboot-nacos-oauth2/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/springboot-nacos-oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/Oauth2Server.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-server/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/SpringBootStaterApplication.java" />
+        <option value="$PROJECT_DIR$/springboot-nacos-server/src/main/resources/bootstrap.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="D:/Program Files/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-nacos-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-nacos-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot-nacos-user" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot-nacos-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-nacos-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569514845517" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/springboot-nacos-user/src/main/java/com/alibaba/nacos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-nacos-server" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.31839082" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.alibaba.nacos.api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-register\src\docker" />
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-config\src\main\resources" />
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-register\src\main\resources" />
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-provider\src\main\resources" />
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-oauth2\src\main\java\com\alibaba\nacos\oauth2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.alibaba.nacos.oauth2.config" />
+      <recent name="com.alibaba.nacos.config" />
+      <recent name="com.alibaba.user.controller" />
+      <recent name="com.alibaba.nacos.dto" />
+      <recent name="com.alibaba.nacos.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-config\src\main" />
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-gateway\src\main\java\com\alibaba\nacos" />
+      <recent name="D:\code\springboot-nacos-parent" />
+      <recent name="D:\code\springboot-nacos-parent\springboot-nacos-user\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.014694509" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootStaterApplication">
+    <configuration name="NacosConfigServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.nacos.config.NacosConfigServer" />
+      <module name="springboot-nacos-config" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.nacos.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.nacos.gateway.NacosGatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.nacos.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaRegistryServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-nacos-register" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.registry.EurekaRegistryServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosConfigServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-nacos-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.config.NacosConfigServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oauth2Server" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-nacos-oauth2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.nacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.Oauth2Server" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootStaterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-nacos-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.nacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.SpringBootStaterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-nacos-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.nacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alibaba.nacos.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker" />
+      <item itemvalue="Spring Boot.NacosConfigServer" />
+      <item itemvalue="Spring Boot.EurekaRegistryServer" />
+      <item itemvalue="Application.NacosConfigServer" />
+      <item itemvalue="Application.NacosGatewayApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.SpringBootStaterApplication" />
+      <item itemvalue="Spring Boot.Oauth2Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootStaterApplication" />
+        <item itemvalue="Application.NacosConfigServer" />
+        <item itemvalue="Spring Boot.Oauth2Server" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Application.NacosGatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ec67d4-f615-4fe7-abee-1688894ef42e" name="Default Changelist" comment="" />
+      <created>1567121443455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567121443455</updated>
+      <workItem from="1567121446608" duration="1015000" />
+      <workItem from="1567300102774" duration="10004000" />
+      <workItem from="1567604470983" duration="5490000" />
+      <workItem from="1567639419754" duration="2158000" />
+      <workItem from="1567692559907" duration="7161000" />
+      <workItem from="1567726505963" duration="12780000" />
+      <workItem from="1567903561003" duration="14548000" />
+      <workItem from="1567924923701" duration="157000" />
+      <workItem from="1567948775268" duration="10651000" />
+      <workItem from="1568041843293" duration="8169000" />
+      <workItem from="1568157582413" duration="2516000" />
+      <workItem from="1568301571564" duration="3201000" />
+      <workItem from="1568335466397" duration="25155000" />
+      <workItem from="1568509240531" duration="6300000" />
+      <workItem from="1568542246695" duration="2325000" />
+      <workItem from="1568647510774" duration="1189000" />
+      <workItem from="1568899027702" duration="25451000" />
+      <workItem from="1569246319150" duration="336000" />
+      <workItem from="1569246728811" duration="91000" />
+      <workItem from="1569246868471" duration="9991000" />
+      <workItem from="1569366267127" duration="1797000" />
+      <workItem from="1569419175258" duration="9244000" />
+      <workItem from="1569506080580" duration="8683000" />
+    </task>
+    <task id="LOCAL-00001" summary="springcloud 学习代码提交">
+      <created>1569513896030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569513896030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="168412000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8257457" visible="true" weight="0.36838123" />
+      <window_info id="Structure" order="1" sideWeight="0.17425431" side_tool="true" visible="true" weight="0.36838123" />
+      <window_info id="Web" order="2" sideWeight="0.148" side_tool="true" weight="0.31467474" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.14770459" side_tool="true" weight="0.31467474" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.021978023" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="5" weight="0.20251177" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4977307" weight="0.32967034" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50226927" side_tool="true" weight="1.0" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.4599686" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49924356" weight="0.03453689" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.32810047" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.21350078" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.4977307" weight="0.32840723" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32810047" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49848714" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5353038" side_tool="true" weight="0.32753405" />
+      <window_info anchor="right" id="Maven Projects" order="1" sideWeight="0.46469623" weight="0.19969743" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.46666667" weight="0.24962178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="10" sideWeight="0.46666667" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8475499" weight="0.3464448" />
+      <window_info id="Structure" order="1" sideWeight="0.15245008" side_tool="true" weight="0.32980332" />
+      <window_info id="Web" order="2" sideWeight="0.148" side_tool="true" weight="0.31467474" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.14770459" side_tool="true" weight="0.31467474" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.021978023" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.18367347" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32840723" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.21350078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50226927" side_tool="true" weight="1.0" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.056514915" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49924356" weight="0.03453689" />
+      <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.4977307" weight="0.32840723" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32810047" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49848714" weight="0.3291536" />
+      <window_info anchor="right" id="Coverage" order="0" sideWeight="0.5353038" side_tool="true" weight="0.32753405" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="1" sideWeight="0.46469623" visible="true" weight="0.19969743" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.46666667" weight="0.24962178" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Database" order="9" sideWeight="0.46666667" weight="0.32980332" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnloadedModulesList">
+    <module name="springboot-nacos-config-client" />
+    <module name="springboot-nacos-parent" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud 学习代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud 学习代码提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-provider/src/main/java/com/alibaba/nacos/service/StudentService.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-provider/src/main/java/com/alibaba/nacos/service/StudentService.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-provider/src/main/java/com/alibaba/nacos/service/StudentService.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/service/UserService.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java</url>
+          <line>351</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/dao/AbstractUserDetailsAuthenticationProvider.java</url>
+          <line>380</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/AccountStatusUserDetailsChecker.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE-sources.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/controller/UserController.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-provider/src/main/java/com/alibaba/nacos/service/UserService.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/controller/UserController.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/service/UserService.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-feigin-client/src/main/java/com/alibaba/nacos/feign/fallback/UserFallbackImpl.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/service/UserService.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-nacos-feigin-client/src/main/java/com/alibaba/nacos/feign/fallback/UserFallbackImpl.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="private Long id;&#10;&#10;    private String username;&#10;&#10;    private String password;&#10;&#10;    private Integer roleId;&#10;" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/controller/RouteController.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-917">
+          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/LimitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/LimitKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.3.RELEASE/spring-data-redis-2.1.3.RELEASE.jar!/org/springframework/data/redis/core/ReactiveRedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="137" column="19" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.2.3.RELEASE/reactor-core-3.2.3.RELEASE.jar!/reactor/core/publisher/Mono.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/AuthFilter.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/CustomKeyResolver.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/CustomRedisRateLimiter.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/RateLimiterGatewayFilterFactory.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/gateway/config/WrapperResponseFilter.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/springboot-nacos-service-one/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-service-one/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-service-one/src/main/java/com/alibaba/nacos/service/NacosOneServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-service-one/src/main/java/com/alibaba/nacos/service/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-service-one/src/main/java/com/alibaba/nacos/service/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/resources/bootstrap.properties" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/src/main/java/com/alibaba/nacos/NacosGatewayApplication.java" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-config/src/main/docker/app.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-gateway/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-register/pom.xml">
+      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-register/src/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-config/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-register/src/docker/app.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-user/src/main/java/com/alibaba/nacos/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="15" selection-start-line="23" selection-start-column="15" selection-end-line="23" selection-end-column="15" />
+          <folding>
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-service-one/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-user/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-mybatis/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/domain/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/api/TeacherApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/api/StudentApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-provider/src/main/java/com/alibaba/nacos/service/TeacherService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/src/main/java/com/alibaba/nacos/api/dao/TeacherDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-api/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="63" column="11" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="100" column="39" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-config/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-config/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="61" column="32" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2214">
+          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/OAuth2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/Oauth2Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-oauth2/src/main/java/com/alibaba/nacos/oauth2/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="56" column="1" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/server/controller/TeacherController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="128" column="10" selection-start-line="128" selection-start-column="10" selection-end-line="128" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/java/com/alibaba/nacos/SpringBootStaterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springboot-nacos-server/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (springboot-nacos-api)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>springboot-nacos-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31839082" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

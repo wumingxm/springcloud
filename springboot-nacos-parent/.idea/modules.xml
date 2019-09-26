@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-api/springboot-nacos-api.iml" filepath="$PROJECT_DIR$/springboot-nacos-api/springboot-nacos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-config/springboot-nacos-config.iml" filepath="$PROJECT_DIR$/springboot-nacos-config/springboot-nacos-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-config-client/springboot-nacos-config-client.iml" filepath="$PROJECT_DIR$/springboot-nacos-config-client/springboot-nacos-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-discovery/springboot-nacos-discovery.iml" filepath="$PROJECT_DIR$/springboot-nacos-discovery/springboot-nacos-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-feigin-client/springboot-nacos-feigin-client.iml" filepath="$PROJECT_DIR$/springboot-nacos-feigin-client/springboot-nacos-feigin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-mybatis/springboot-nacos-mybatis.iml" filepath="$PROJECT_DIR$/springboot-nacos-mybatis/springboot-nacos-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-oauth2/springboot-nacos-oauth2.iml" filepath="$PROJECT_DIR$/springboot-nacos-oauth2/springboot-nacos-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-nacos-parent.iml" filepath="$PROJECT_DIR$/.idea/springboot-nacos-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-provider/springboot-nacos-provider.iml" filepath="$PROJECT_DIR$/springboot-nacos-provider/springboot-nacos-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-register/springboot-nacos-register.iml" filepath="$PROJECT_DIR$/springboot-nacos-register/springboot-nacos-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-server/springboot-nacos-server.iml" filepath="$PROJECT_DIR$/springboot-nacos-server/springboot-nacos-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-service-one/springboot-nacos-service-one.iml" filepath="$PROJECT_DIR$/springboot-nacos-service-one/springboot-nacos-service-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-user/springboot-nacos-user.iml" filepath="$PROJECT_DIR$/springboot-nacos-user/springboot-nacos-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-nacos-config-client/springcloud-nacos-config-client.iml" filepath="$PROJECT_DIR$/springboot-nacos-config-client/springcloud-nacos-config-client.iml" />
+    </modules>
+  </component>
+</project>

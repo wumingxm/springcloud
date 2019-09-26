@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-nacos-api" />
+        <module name="springboot-nacos-config" />
+        <module name="springboot-nacos-discovery" />
+        <module name="springboot-nacos-feigin-client" />
+        <module name="springboot-nacos-mybatis" />
+        <module name="springboot-nacos-oauth2" />
+        <module name="springboot-nacos-provider" />
+        <module name="springboot-nacos-register" />
+        <module name="springboot-nacos-server" />
+        <module name="springboot-nacos-service-one" />
+        <module name="springboot-nacos-user" />
+        <module name="springcloud-nacos-config-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-nacos-api" target="1.8" />
+      <module name="springboot-nacos-config" target="1.8" />
+      <module name="springboot-nacos-config-client" target="1.8" />
+      <module name="springboot-nacos-discovery" target="1.8" />
+      <module name="springboot-nacos-feigin-client" target="1.8" />
+      <module name="springboot-nacos-gateway" target="1.8" />
+      <module name="springboot-nacos-mybatis" target="1.8" />
+      <module name="springboot-nacos-oauth2" target="1.8" />
+      <module name="springboot-nacos-parent" target="1.8" />
+      <module name="springboot-nacos-provider" target="1.8" />
+      <module name="springboot-nacos-register" target="1.8" />
+      <module name="springboot-nacos-registry" target="1.8" />
+      <module name="springboot-nacos-registry2" target="1.8" />
+      <module name="springboot-nacos-server" target="1.8" />
+      <module name="springboot-nacos-service-one" target="1.8" />
+      <module name="springboot-nacos-user" target="1.8" />
+      <module name="springcloud-nacos-config-client" target="1.8" />
+      <module name="springnboot-nacos-configserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
